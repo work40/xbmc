@@ -29,7 +29,7 @@
 
 #include "GUIAction.h"
 #include "GUIInfoTypes.h"
-#include "xbmc/FileItem.h"
+#include "FileItem.h"
 
 class TiXmlElement;
 
